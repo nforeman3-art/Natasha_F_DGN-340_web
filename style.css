@@ -4,9 +4,9 @@ img{
     margin:auto;
 }
 body{
-    background-image: url('10344274147288710.jpg');
-    background-size: cover;
-    font-family: "Monospace", monospace;
+    background-image: url('OIP (1).webp');
+    background-size: contain;
+    font-family: "Times New Roman", serif;
 }
 h1{
     color: rgb(170, 174, 197);
