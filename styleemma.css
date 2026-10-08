@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+ h3 { 
+    text-align: center;
+    font-size: 40px;
+    color: rgb(32, 32, 83)
+ }
+ li {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(32, 32, 83)
+ }
+
+ img {
+    display: block;
+    margin: 0 auto;
+
+ }
